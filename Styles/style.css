@@ -1,0 +1,38 @@
+h1 {
+  font-size: 36px;
+  margin: 0;  
+  padding: 10px 0px 00px 110px;
+  color: #F0B300;
+  text-shadow: 3px 3px 1px black;
+}
+
+
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #3999FF;
+  padding: 0 20px 20px 20px;
+  border: 7px solid black;
+}
+
+
+html {
+    background-color: #808080
+}
+
+html {
+  font-size: 16px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Roboto Slab', serif;
+}
+
+
+a:hover {
+
+    color: green;
+}
+
+
+
+
+
