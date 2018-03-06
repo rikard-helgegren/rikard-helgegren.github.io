@@ -18,7 +18,11 @@ function setUserName(userName) {
 }
 
 if(localStorage.getItem('name')) {
-  setUserName(localStorage.getItem('name'));
+  var name =  localStorage.getItem('name')
+  if (name !== null){
+    setUserName(localStorage.getItem('name'));
+  }
+  
 } 
 
 
