@@ -41,6 +41,15 @@ myImage.onclick = function() {
 
 
 
+var para = document.getElementById('p_1');
+
+para.addEventListener('click', updateName);
+
+function updateName() {
+  var name = prompt('Enter a opinion');
+  para.textContent = 'WOOOOA: ' + name;
+}
+
 
 
 

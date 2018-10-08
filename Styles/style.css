@@ -1,7 +1,8 @@
 h1 {
   font-size: 36px;
-  margin: 0;  
-  padding: 10px 0px 00px 110px;
+  margin: 0;
+  text-align: center;
+  padding: 10px 0px 0px 10px;
   color: #F0B300;
   text-shadow: 3px 3px 1px black;
 }
